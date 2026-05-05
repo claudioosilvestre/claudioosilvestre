@@ -8,7 +8,7 @@ Fullstack Developer | Java Developer | BackEnd Developer
 
 
 ## 🚀 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,maven,hibernate,postman,spring,postgres,js,html,css,bootstrap,git,github,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,maven,hibernate,postman,spring,postgres,js,html,css,bootstrap,git)](https://skillicons.dev)
 
 
 <!--
