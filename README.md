@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi there, I'm Cláudio 👋
+
+Fullstack Developer | Java Developer | BackEnd Developer 
+## 💡 About me
+
+## 🚀 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=java,maven,hibernate,postman,spring,junit,postgres,js,html,css,bootstrap,git,github,wasm)](https://skillicons.dev)
+
 
 <!--
 **claudioosilvestre/claudioosilvestre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
