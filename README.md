@@ -3,25 +3,12 @@
 Fullstack Developer | Java Developer | BackEnd Developer 
 
 
+
 ## 💡 About me
+
+I’m a passionate developer who truly enjoys the "aha!" moment of solving a tough bug. I don’t rest until the logic is seamless and the code is clean. Deeply committed to continuous learning, I always show up with the energy to build reliable, high-quality software and turn complex challenges into reality.
 
 
 
 ## 🚀 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,maven,hibernate,postman,spring,postgres,js,html,css,bootstrap,git)](https://skillicons.dev)
-
-
-<!--
-**claudioosilvestre/claudioosilvestre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
