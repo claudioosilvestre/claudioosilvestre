@@ -26,8 +26,7 @@ Full Stack Developer | Java Developer | Backend Developer
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github" /><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,postman" />
+  <img src="https://skillicons.dev/icons?i=java,maven,hibernate,postman,spring,postgres,js,html,css,bootstrap,git" />
 </p>
 
 <p align="center">
