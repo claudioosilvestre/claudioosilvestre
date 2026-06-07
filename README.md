@@ -8,9 +8,10 @@
 Full Stack Developer | Java Developer | Backend Developer
 </h3>
 
-<img align="center">
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Always+Learning+New+Technologies;Turning+Ideas+Into+Code" />
-</img>
+
 
 </div>
 
@@ -26,14 +27,9 @@ Full Stack Developer | Java Developer | Backend Developer
 🔹 Open to collaboration on interesting projects
 
 ## 🚀 Tech Stack
-<div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=java,maven,hibernate,postman,spring,postgres,js,html,css,bootstrap,git)](https://skillicons.dev)
 </div>
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=claudioosilvestre&theme=tokyonight&no-frame=true)]
 
 <div align="center">
 
