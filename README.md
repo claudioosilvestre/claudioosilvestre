@@ -13,5 +13,6 @@ I’m a passionate developer who truly enjoys the "aha!" moment of solving a tou
 ## 🚀 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,maven,hibernate,postman,spring,postgres,js,html,css,bootstrap,git)](https://skillicons.dev)
 
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ![Visitors](https://komarev.com/ghpvc/?username=claudioosilvestre)
