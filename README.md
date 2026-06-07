@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./claudiosilvestre_banner.png" alt="Banner" />
+  <img src="./claudiosilvestre_banner.png" alt="Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi there, I'm Cláudio 👋</h1>
@@ -16,18 +16,25 @@ Full Stack Developer | Java Developer | Backend Developer
 ## 💡 About me
 
 🔹 Full Stack Developer passionate about building scalable applications
+
 🔹 Strong focus on Java, Spring Boot and Backend Development
+
 🔹 Always learning new technologies and software architecture patterns
+
 🔹 Open to collaboration on interesting projects
 
 ## 🚀 Tech Stack
 
 <p align="center">
 [![My Skills](https://skillicons.dev/icons?i=java,maven,hibernate,postman,spring,postgres,js,html,css,bootstrap,git)](https://skillicons.dev)
-</div>
 </p>
 
 
 <p align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=claudioosilvestre&color=blue)
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=claudioosilvestre&color=blue" />
 </p>
