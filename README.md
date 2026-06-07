@@ -13,8 +13,4 @@ I’m a passionate developer who truly enjoys the "aha!" moment of solving a tou
 ## 🚀 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,maven,hibernate,postman,spring,postgres,js,html,css,bootstrap,git)](https://skillicons.dev)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claudioosilvestre&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioosilvestre&layout=compact&theme=tokyonight)
-
 ![Visitors](https://komarev.com/ghpvc/?username=claudioosilvestre)
