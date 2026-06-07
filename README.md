@@ -26,14 +26,8 @@ Full Stack Developer | Java Developer | Backend Developer
 ## 🚀 Tech Stack
 
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=java,maven,hibernate,postman,spring,postgres,js,html,css,bootstrap,git)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=java,maven,hibernate,postman,spring,postgres,js,html,css,bootstrap,git" />
 </p>
-
-
-<p align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=claudioosilvestre&color=blue)
-</p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=claudioosilvestre&color=blue" />
