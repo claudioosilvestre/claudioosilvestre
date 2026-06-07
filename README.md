@@ -3,7 +3,7 @@
 
 ### Fullstack Developer | Java Developer | BackEnd Developer 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Java+%7C+Spring+Boot+%7C+PostgreSQL;Always+Learning+New+Technologies;Turning+Ideas+Into+Code" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+JavaScript+%7C+HTML+%7C+CSS;Always+Learning+New+Technologies;Turning+Ideas+Into+Code" />
 
 </div>
 
