@@ -30,13 +30,6 @@ Right now, my main goal is simple: keep improving, keep learning, and become bet
   <img src="https://skillicons.dev/icons?i=java,maven,hibernate,postman,spring,postgres,js,html,css,bootstrap,git" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=claudioosilvestre&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioosilvestre&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
