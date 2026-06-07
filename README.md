@@ -19,12 +19,19 @@ I’m a passionate developer who truly enjoys the "aha!" moment of solving a tou
 [![My Skills](https://skillicons.dev/icons?i=java,maven,hibernate,postman,spring,postgres,js,html,css,bootstrap,git)](https://skillicons.dev)
 </div>
 
-## 🔥 GitHub Streak
+## 📫 Connect With Me
+
+<a href="https://linkedin.com/in/TEU-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:teuemail@email.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=claudioosilvestre&theme=tokyonight&hide_border=true"/>
+![Profile Views](https://komarev.com/ghpvc/?username=claudioosilvestre&color=blueviolet)
 
 </div>
-
-![Visitors](https://komarev.com/ghpvc/?username=claudioosilvestre)
