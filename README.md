@@ -14,19 +14,33 @@ Full Stack Developer | Java Developer | Backend Developer
 
 
 ## 💡 About me
+I’ve been interested in how things work since I was very young, especially when it comes to technology and software.
 
-🔹 Full Stack Developer passionate about building scalable applications
+I enjoy backend development the most, not just because of the tools I use, but because I like understanding how everything fits together behind the scenes.
 
-🔹 Strong focus on Java, Spring Boot and Backend Development
+When I’m coding, I usually don’t stop at “it works” — I like to understand why it works.
 
-🔹 Always learning new technologies and software architecture patterns
+I don’t really follow a fixed path or focus on a specific type of project yet. I’m still exploring and learning as much as I can.
 
-🔹 Open to collaboration on interesting projects
+Right now, my main goal is simple: keep improving, keep learning, and become better with every project I build.
 
 ## 🚀 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,maven,hibernate,postman,spring,postgres,js,html,css,bootstrap,git" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=claudioosilvestre&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioosilvestre&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 <p align="center">
