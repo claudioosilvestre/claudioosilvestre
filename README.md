@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./claudiosilvestre_banner.png" alt="Banner" width="100%"/>
-</p>
-
 <h1 align="center">Hi there, I'm Cláudio 👋</h1>
 
 <h3 align="center">
