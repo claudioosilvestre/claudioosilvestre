@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Cláudio 👋</h1>
 
 <h3 align="center">
-Full Stack Developer | Java Developer | Backend Developer
+Full Stack Developer | Backend Developer
 </h3>
 
 <p align="center">
